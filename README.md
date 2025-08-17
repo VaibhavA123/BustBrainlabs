@@ -83,7 +83,7 @@ airtable-form-builder
 
 ### Usage
 
-- Access the application in your browser at `http://localhost:3000`.
+- Access the application in your browser at `http://localhost:5000`.
 - Register a new user or log in to access the form builder.
 - Create forms and define conditional logic as needed.
 - Submit responses to save them in Airtable.
